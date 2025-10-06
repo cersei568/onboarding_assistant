@@ -58,7 +58,7 @@ An **AI-powered, intelligent employee onboarding management system** that automa
 
 ## 🎥 Demo
 
-🔗 **Live Demo:** [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+🔗 **Live Demo:** [Onboarding Assistant](https://onbassistant.streamlit.app)
 
 ---
 
