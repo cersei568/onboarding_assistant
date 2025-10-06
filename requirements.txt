@@ -1,0 +1,8 @@
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.1.3
+
+# Visualization
+plotly>=5.18.0
